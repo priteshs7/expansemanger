@@ -2,3 +2,8 @@ a=10
 b=20
 c=a+b
 print(C)
+
+a=11
+b=12
+d=a-b
+print(d)
